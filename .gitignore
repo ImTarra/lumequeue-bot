@@ -1,0 +1,11 @@
+# chiavi e segreti: MAI su GitHub
+token.txt
+riot_key.txt
+.env
+
+# dati degli utenti
+data/
+
+# python
+__pycache__/
+*.pyc
